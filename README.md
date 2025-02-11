@@ -72,5 +72,3 @@ Features:
 ## Disclaimer
 Nasa API is a great resource for asteroid data, but it has a limit of request and they can block your IP if you make too many requests.
 You can use a VPN to avoid this issue.
-
-# asteroids
